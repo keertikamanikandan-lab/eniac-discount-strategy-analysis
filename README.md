@@ -16,7 +16,7 @@ The analysis focuses on:
 - Relationship between discounts and basket value  
 - Identification of efficient vs inefficient discount strategies  
 
-Using Python-based exploratory data analysis, this project translates raw transactional data into **actionable business insights for pricing optimization**.
+Using Python-based exploratory data analysis, this project translates raw transactional data into **actionable business insights for pricing optimisation**.
 
 ---
 
