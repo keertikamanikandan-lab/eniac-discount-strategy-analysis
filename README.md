@@ -231,6 +231,8 @@ The dataset consists of transactional e-commerce sales data stored in Excel form
 
 ### 📊 Presentation  
 
+📊 Explore the final business presentation for insights and results.
+
 👉 [View Presentation](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis/blob/main/presentation/The_Discount_Strategy_Analysis.pptx)
 
 ---
